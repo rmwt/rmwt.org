@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+	body {background-image: url(images/background-orig.jpg); font-family:Verdana, Arial, Helvetica, sans-serif;}
+	#bigpage {width:797px; margin:auto;}
+	#page {width:797px; background-color:#FFFFFF; float:left;}
+	#header p {color:#784220; margin:0; padding:5px; font-size:85%;}
+	#topnav {background-color:#CCC; width:797px;}
+	#topnav ul {list-style-type:none; text-align:center; margin:5px 0; padding:0;}
+	#topnav li {display:inline; padding:0 20px; font-size:80%;}
+	#topnav a {color:#000000; text-decoration:none;}
+	#topnav a:hover {text-decoration:underline;}
+
+	#container {width:797px; background-image:url(images/container_background.jpg); background-repeat:repeat-y; background-position:left; float:left; margin-top:15px; }
+	#leftnav {width:153px; float:left; padding:5px 10px;}
+	#leftnav h3 {color:#000000; font-size:80%; margin:0; padding:0;}
+	#leftnav ul {list-style-type:none; margin:0 0 25px 0; padding:0; font-size:80%}
+
+	#content {width:578px; float:left; padding:0 23px;}
+	#content h1 {color:#BF1E2D; font-size:85%; }
+	#content h2 {color:#BF1E2D; font-size:85%; font-weight:normal; border-top:2px solid #000;}
+	#content p, #content ul, #content ol {
+	font-size:12pt;
+}
+
+
+	#container a {color:#784220; text-decoration:none;}
+	
+	.wood {text-align:center; margin-top:300px;}
